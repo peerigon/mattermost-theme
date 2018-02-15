@@ -8,3 +8,13 @@
 * Save
 
 Please share your improvements :)
+
+# Screenshots
+
+### Peerigon theme
+
+![./screenshots/peerigon-theme.png](./screenshots/peerigon-theme.png)
+
+### Peerigon light spinach theme
+
+![./screenshots/peerigon-light-spinach-theme.png](./screenshots/peerigon-light-spinach-theme.png)
